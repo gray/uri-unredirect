@@ -72,8 +72,9 @@ original is returned instead of a copy.
 
 =head1 SEE ALSO
 
-L<https://www.squarefree.com/bookmarklets/pagelinks.html#remove_redirects>
 L<URI>
+
+L<https://www.squarefree.com/bookmarklets/pagelinks.html#remove_redirects>
 
 =head1 REQUESTS AND BUGS
 
